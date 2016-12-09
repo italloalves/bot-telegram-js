@@ -1,0 +1,15 @@
+#corpo{	
+	margin-top: 2%;
+	text-align: center;
+	background-color: #99ceff;
+}
+
+#textos{
+	font-weight: bold;
+	margin: 0 auto;
+	background-color: #b3daff;
+	margin-top: 2%;
+	border: 2px solid black;
+	width: 60%;
+	border-radius: 10px; 
+}
